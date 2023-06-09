@@ -14,7 +14,8 @@ import '@fortawesome/fontawesome-free/js/all';
 import "../stylesheets/application" 
 //= require jquery
 //= require rails-ujs
-
+//= require chartkick
+//= require Chart.bundle
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
